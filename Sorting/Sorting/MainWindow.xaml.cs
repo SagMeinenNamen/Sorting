@@ -61,26 +61,6 @@ namespace Sorting
         }
 
 
-
-        private void BubbleSort()
-        {
-            for (int j = data.Count - 1; j > 0; j--)
-            {
-                for (int i = 0; i < j; i++)
-                {
-                    if (data[i] > data[i + 1])
-                    {
-                        int temporary = data[i];
-                        data[i] = data[i + 1];
-                        data[i + 1] = temporary;
-                        Task task = new Task(VisualizeSorting, i);
-                        task.Start();
-                    }
-                }
-            }
-
-        }
-
         private void QuickSort(List<int> data, int start, int end)
         {
             if (start < end)

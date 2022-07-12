@@ -1,0 +1,16 @@
+C:\repos\Sorting\Sorting\bin\Release\Sorting.exe.config
+C:\repos\Sorting\Sorting\bin\Release\Sorting.exe
+C:\repos\Sorting\Sorting\bin\Release\Sorting.pdb
+C:\repos\Sorting\Sorting\obj\Release\Sorting.csproj.AssemblyReference.cache
+C:\repos\Sorting\Sorting\obj\Release\Sorting.csproj.SuggestedBindingRedirects.cache
+C:\repos\Sorting\Sorting\obj\Release\MainWindow.g.cs
+C:\repos\Sorting\Sorting\obj\Release\App.g.cs
+C:\repos\Sorting\Sorting\obj\Release\Sorting_MarkupCompile.cache
+C:\repos\Sorting\Sorting\obj\Release\Sorting_MarkupCompile.lref
+C:\repos\Sorting\Sorting\obj\Release\MainWindow.baml
+C:\repos\Sorting\Sorting\obj\Release\Sorting.g.resources
+C:\repos\Sorting\Sorting\obj\Release\Sorting.Properties.Resources.resources
+C:\repos\Sorting\Sorting\obj\Release\Sorting.csproj.GenerateResource.cache
+C:\repos\Sorting\Sorting\obj\Release\Sorting.csproj.CoreCompileInputs.cache
+C:\repos\Sorting\Sorting\obj\Release\Sorting.exe
+C:\repos\Sorting\Sorting\obj\Release\Sorting.pdb

@@ -1,5 +1,6 @@
 # Sorting
-Visually sorts an amount of scrambled numbers
+
+Visually sorts any given amount between 1 and 9999 of scrambled numbers/values
 
 # Screenshot
 
